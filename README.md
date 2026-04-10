@@ -437,6 +437,6 @@ Made with ❤️ by [Dev Book Lab](https://github.com/dev-book-lab)
 
 <br/>
 
-*"메시지를 발행하는 것과, Kafka가 어떻게 순서와 내구성을 보장하는지 아는 것은 다르다"*
+**"메시지를 발행하는 것과, Kafka가 어떻게 순서와 내구성을 보장하는지 아는 것은 다르다"**
 
 </div>
